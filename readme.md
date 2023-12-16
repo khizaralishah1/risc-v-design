@@ -1,3 +1,5 @@
+![Alt text](./microarchitecture-diagram.jpeg)
+
 The project currently has the following things implemented:
 
 ## RISC-V Single Cycle
