@@ -1,4 +1,4 @@
-![Alt text](./main-poster.png)
+![Alt text](./main-poster.jpeg)
 ![Alt text](./microarchitecture-diagram.jpeg)
 
 The project currently has the following things implemented:
